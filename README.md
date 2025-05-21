@@ -8,8 +8,10 @@
 
 ## In my profile you will find:
 - Personal Projects
+- Class Projects
+- Game Jam submissions
 
-Some of my projects are finsihed or in progress!
+Some of my projects are finished or in progress!
 <!--
 **nathaliecstro/nathaliecstro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
